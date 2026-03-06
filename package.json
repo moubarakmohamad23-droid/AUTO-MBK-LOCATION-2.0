@@ -1,3 +1,4 @@
+
 {
   "name": "auto-mbk-location",
   "private": true,
@@ -15,7 +16,7 @@
     "express": "^4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "better-sqlite3": "^9.4.3",
+    "@libsql/client": "^0.14.0",
     "cors": "^2.8.5"
   },
   "devDependencies": {
