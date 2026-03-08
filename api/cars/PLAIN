@@ -1,0 +1,5 @@
+api/
+└── cars/
+    ├── route.ts          ← NOUVEAU (GET + POST)
+    └── [id]/
+        └── route.ts      ← NOUVEAU (GET + PUT + DELETE)
